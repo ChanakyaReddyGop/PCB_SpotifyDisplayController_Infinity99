@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-06 — 10/6/2026 - KiCAD looking pretty cool](#2026-10-06-1062026---kicad-looking-pretty-cool)
+1. [2026-10-06 — KiCAD looking pretty cool](#2026-10-06-kicad-looking-pretty-cool)
 
 ## Design
 
-### 2026-10-06 — 10/6/2026 - KiCAD looking pretty cool
+### 2026-10-06 — KiCAD looking pretty cool
 
 **1h**
 
-10/6/2026 - KiCAD looking pretty cool
+KiCAD looking pretty cool
 2:20 AM to 3:22 AM
 
 To actually start my project, I have to figure out what I need to make it work, so I did research into the components I would need and ended up with the following:
