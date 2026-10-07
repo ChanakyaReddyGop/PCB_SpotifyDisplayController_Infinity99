@@ -9,4 +9,4 @@ PCB designed in KiCAD\
 Need to research and start on code\
 Updates in [JOURNAL.md](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/JOURNAL.md)
 
-<img width="977" height="653" alt="Screenshot 2026-10-07 002904" src="https://github.com/user-attachments/assets/67a203dc-684d-41a5-91b5-eec264cc6bf4" />
+<img width="651" height="430" alt="Screenshot 2026-10-07 012409" src="https://github.com/user-attachments/assets/10386af2-6aeb-4c71-86de-70097e4870c4" />
