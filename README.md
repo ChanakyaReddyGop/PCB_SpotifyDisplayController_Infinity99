@@ -5,7 +5,7 @@ A Spotify Display and Controller PCB using ESP32 and buttons for controls and a 
 A PCB that uses an ESP32 to display the currently playing Spotify song on a LCD screen. It takes inputs from three buttons for previous, pause, and skip, as well as a potentiometer for volume control 
 
 ## Current Status
-PCB designed in KiCAD\
+PCB designed in KiCAD, simple stand made\
 Currently working on the firmware\
 Updates in [JOURNAL.md](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/JOURNAL.md)
 
