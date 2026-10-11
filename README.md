@@ -9,4 +9,6 @@ PCB designed in KiCAD\
 Currently working on the firmware\
 Updates in [JOURNAL.md](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/JOURNAL.md)
 
-<img width="651" height="430" alt="Screenshot 2026-10-07 012409" src="https://github.com/user-attachments/assets/10386af2-6aeb-4c71-86de-70097e4870c4" />
+<img width="946" height="703" alt="Screenshot 2026-10-11 132358" src="https://github.com/user-attachments/assets/092ef266-2cf9-4f61-aa73-69f55a7fefe0" />
+
+<img width="1017" height="677" alt="Screenshot 2026-10-11 131612" src="https://github.com/user-attachments/assets/5763166e-3cfb-4591-a96d-496644c9a23b" />
