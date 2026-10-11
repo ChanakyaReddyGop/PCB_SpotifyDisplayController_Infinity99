@@ -46,6 +46,8 @@ I still need to add the potentiometer for the volume control but it's looking go
 
 As of writing this I have not updated the BOM but I will do so immediately. Pretty much everything is still technically up for debate as to whether I'm actually using it or a different model, but I think I should be sticking with them.
 
+tl;dr: Started work on the schematic for the PCB layout.
+
 ### 2026-10-07 – PCB has been designed!
 
 **2.5h**
