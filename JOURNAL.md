@@ -70,3 +70,5 @@ The PCB was looking pretty good, but I realized that I should make the routes fo
 ![Screenshot 2026-10-07 012409](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/cVf1AKGAA4bfEud82NdRBGOmHvDBJZX3/b7118fde471955549a03de9d428efe9bbe826e84a07d9b013109c1297d496a03.png)
 
 Next time I work on this I'm going to put the PCB into JLCPCB as well as start working on firmware for the project.
+
+tl;dr: Finished PCB layout, need to start on firmware.
