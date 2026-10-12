@@ -12,6 +12,7 @@ Updates in [JOURNAL.md](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayCo
 ## PCB
 PCB files in [PCB](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/tree/main/pcb)\
 Drill and Gerber files in [gerber and drill.zip](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/pcb/gerber%20and%20drill.zip)\
+<img width="1017" height="677" alt="Screenshot 2026-10-11 131612" src="https://github.com/user-attachments/assets/5763166e-3cfb-4591-a96d-496644c9a23b" />
 
 ## Firmware
 ESP32 firmware in [SpotifyDisplayController.zip](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/firmware/SpotifyDisplayController.zip)\
@@ -21,5 +22,3 @@ Bridge code in [bridge.py](https://github.com/ChanakyaReddyGop/PCB_SpotifyDispla
 CAD Model of PCB and Simple Stand in {SpotifyDisplay CAD.step}(https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/cad/SpotifyDisplay%20CAD.step)/
 
 <img width="946" height="703" alt="Screenshot 2026-10-11 132358" src="https://github.com/user-attachments/assets/092ef266-2cf9-4f61-aa73-69f55a7fefe0" />
-
-<img width="1017" height="677" alt="Screenshot 2026-10-11 131612" src="https://github.com/user-attachments/assets/5763166e-3cfb-4591-a96d-496644c9a23b" />
