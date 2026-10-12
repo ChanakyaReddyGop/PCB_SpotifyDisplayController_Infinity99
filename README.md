@@ -6,8 +6,19 @@ A PCB that uses an ESP32 to display the currently playing Spotify song on a LCD 
 
 ## Current Status
 PCB designed in KiCAD, simple stand made\
-Currently working on the firmware\
+Firmware completed and uploaded\
 Updates in [JOURNAL.md](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/JOURNAL.md)
+
+## PCB
+PCB files in [PCB](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/tree/main/pcb)\
+Drill and Gerber files in [gerber and drill.zip](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/pcb/gerber%20and%20drill.zip)\
+
+## Firmware
+ESP32 firmware in [SpotifyDisplayController.zip](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/firmware/SpotifyDisplayController.zip)\
+Bridge code in [bridge.py](https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/firmware/bridge.py)\
+
+## CAD
+CAD Model of PCB and Simple Stand in {SpotifyDisplay CAD.step}(https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/cad/SpotifyDisplay%20CAD.step)/
 
 <img width="946" height="703" alt="Screenshot 2026-10-11 132358" src="https://github.com/user-attachments/assets/092ef266-2cf9-4f61-aa73-69f55a7fefe0" />
 
