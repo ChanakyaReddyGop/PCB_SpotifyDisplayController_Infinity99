@@ -20,5 +20,4 @@ Bridge code in [bridge.py](https://github.com/ChanakyaReddyGop/PCB_SpotifyDispla
 
 ## CAD
 CAD Model of PCB and Simple Stand in {SpotifyDisplay CAD.step}(https://github.com/ChanakyaReddyGop/PCB_SpotifyDisplayController_Infinity99/blob/main/cad/SpotifyDisplay%20CAD.step)/
-
-<img width="946" height="703" alt="Screenshot 2026-10-11 132358" src="https://github.com/user-attachments/assets/092ef266-2cf9-4f61-aa73-69f55a7fefe0" />
+<img width="843" height="580" alt="Screenshot 2026-10-11 210059" src="https://github.com/user-attachments/assets/d9dddfa3-5a8e-4785-a6ec-ba02c83dfa76" />
